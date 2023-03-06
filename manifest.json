@@ -1,0 +1,24 @@
+{
+  "_main-1039245c.js": {
+    "assets": [
+      "file/logo-text-85092857.png",
+      "file/server-maintenance-35393ccf.png"
+    ],
+    "css": [
+      "file/main-1b70f05f.css"
+    ],
+    "file": "file/main-1039245c.js"
+  },
+  "main.css": {
+    "file": "file/main-1b70f05f.css",
+    "src": "main.css"
+  },
+  "src/assets/images/logo-text.png": {
+    "file": "file/logo-text-85092857.png",
+    "src": "src/assets/images/logo-text.png"
+  },
+  "src/assets/images/server-maintenance.png": {
+    "file": "file/server-maintenance-35393ccf.png",
+    "src": "src/assets/images/server-maintenance.png"
+  }
+}
